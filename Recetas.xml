@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data_base>
+	<libros>
+		<libro>
+			<isbn>84-404-9666-4</isbn>
+			<titulo>Guía Práctica de Cocina Oriental</titulo>
+			<autor>K. C. Chin</autor>
+		</libro>
+		<libro>
+			<isbn>84-324-8776-3</isbn>
+			<titulo>La Cocina Para Estar en Forma</titulo>
+			<autor>Karlos Arguiñano</autor>
+		</libro>
+		<libro>
+			<isbn>84-403-6999-5</isbn>
+			<titulo>La Cocina Práctica</titulo>
+			<autor>Karlos Arguiñano</autor>
+		</libro>
+	</libros>
+	<recetas>
+		<receta>
+			<cod_receta>7</cod_receta>
+			<tipo>Pasta</tipo>
+			<descripcion>La pasta se cuece y se saltea con un poco de aceite. Mezclar la nata con las yemas de huevo batidas e incorporar a la pasta (fuego lento). Fuera del fuego se le añade queso rallado y gratina (2 min)</descripcion>
+			<fecha>8/3/1999</fecha>
+			<titulo_original>Cintas a la Crema</titulo_original>
+			<isbn>84-324-8776-3</isbn>
+			<cod_receta_padre>3</cod_receta_padre>
+		</receta>
+		<receta>
+			<cod_receta>8</cod_receta>
+			<tipo>Pasta</tipo>
+			<descripcion>Rehogar mantequilla, anchoas y aceitunas. Añadir la pasta cocida y el brecol. Lonchas de queso por encima y gratinar (1.5 min)</descripcion>
+			<fecha>13/6/1999</fecha>
+			<titulo_original>Cintas con Brecol</titulo_original>
+			<isbn>84-324-8776-3</isbn>
+			<cod_receta_padre></cod_receta_padre>
+		</receta>
+		<receta>
+			<cod_receta>9</cod_receta>
+			<tipo>Pasta</tipo>
+			<descripcion>Rehogar la verdura con el ajo. Incorporar la pasta cocida con las anchoas y las aceitunas. Colocar las lonchas de queso gratinar (3 min)</descripcion>
+			<fecha>26/6/1999</fecha>
+			<titulo_original>Cintas con Brecol</titulo_original>
+			<isbn>84-403-6999-5</isbn>
+			<cod_receta_padre>8</cod_receta_padre>
+		</receta>
+		<receta>
+			<cod_receta>10</cod_receta>
+			<tipo>Verduras</tipo>
+			<descripcion>Freir los aros de pimiento y colocar encima los puedros cocidos. Cubrir con salsa bechamel. Espolvorear con queso rallado y gratinar (5 min)</descripcion>
+			<fecha>30/6/1999</fecha>
+			<titulo_original>Puerros con bechamel</titulo_original>
+			<isbn>84-324-8776-3</isbn>
+			<cod_receta_padre></cod_receta_padre>
+		</receta>
+	</recetas>
+	<ingredientes>
+		<ingrediente>
+			<cod_ingrediente>4</cod_ingrediente>
+			<nombre>Cintas</nombre>
+		</ingrediente>
+		<ingrediente>
+			<cod_ingrediente>5</cod_ingrediente>
+			<nombre>Yemas de huevo</nombre>
+		</ingrediente>
+		<ingrediente>
+			<cod_ingrediente>6</cod_ingrediente>
+			<nombre>Queso rallado</nombre>
+		</ingrediente>
+		<ingrediente>
+			<cod_ingrediente>7</cod_ingrediente>
+			<nombre>Nata líquida</nombre>
+		</ingrediente>
+		<ingrediente>
+			<cod_ingrediente>8</cod_ingrediente>
+			<nombre>Brecol</nombre>
+		</ingrediente>
+		<ingrediente>
+			<cod_ingrediente>9</cod_ingrediente>
+			<nombre>Anchoas</nombre>
+		</ingrediente>
+		<ingrediente>
+			<cod_ingrediente>10</cod_ingrediente>
+			<nombre>Aceitunas negras</nombre>
+		</ingrediente>
+		<ingrediente>
+			<cod_ingrediente>11</cod_ingrediente>
+			<nombre>Lonchas de queso</nombre>
+		</ingrediente>
+		<ingrediente>
+			<cod_ingrediente>12</cod_ingrediente>
+			<nombre>Coliflor</nombre>
+		</ingrediente>
+		<ingrediente>
+			<cod_ingrediente>13</cod_ingrediente>
+			<nombre>Espinacas</nombre>
+		</ingrediente>
+		<ingrediente>
+			<cod_ingrediente>14</cod_ingrediente>
+			<nombre>Puerros</nombre>
+		</ingrediente>
+		<ingrediente>
+			<cod_ingrediente>15</cod_ingrediente>
+			<nombre>Zanahorias</nombre>
+		</ingrediente>
+		<ingrediente>
+			<cod_ingrediente>16</cod_ingrediente>
+			<nombre>Judías verdes</nombre>
+		</ingrediente>
+		<ingrediente>
+			<cod_ingrediente>17</cod_ingrediente>
+			<nombre>Ajos</nombre>
+		</ingrediente>
+		<ingrediente>
+			<cod_ingrediente>18</cod_ingrediente>
+			<nombre>Pimientos</nombre>
+		</ingrediente>
+		<ingrediente>
+			<cod_ingrediente>19</cod_ingrediente>
+			<nombre>Bechamel</nombre>
+		</ingrediente>
+	</ingredientes>
+	<compuestas>
+		<compuesta>
+			<cod_receta>7</cod_receta>
+			<cod_ingrediente>4</cod_ingrediente>
+			<cantidad>300 grs</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>7</cod_receta>
+			<cod_ingrediente>5</cod_ingrediente>
+			<cantidad>4</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>7</cod_receta>
+			<cod_ingrediente>6</cod_ingrediente>
+			<cantidad></cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>7</cod_receta>
+			<cod_ingrediente>7</cod_ingrediente>
+			<cantidad>1 vaso</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>8</cod_receta>
+			<cod_ingrediente>4</cod_ingrediente>
+			<cantidad>200 grs</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>8</cod_receta>
+			<cod_ingrediente>8</cod_ingrediente>
+			<cantidad>250 grs</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>8</cod_receta>
+			<cod_ingrediente>9</cod_ingrediente>
+			<cantidad>8</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>8</cod_receta>
+			<cod_ingrediente>10</cod_ingrediente>
+			<cantidad>1 puñado</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>8</cod_receta>
+			<cod_ingrediente>11</cod_ingrediente>
+			<cantidad>4</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>9</cod_receta>
+			<cod_ingrediente>4</cod_ingrediente>
+			<cantidad>200 grs</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>9</cod_receta>
+			<cod_ingrediente>8</cod_ingrediente>
+			<cantidad>250 grs</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>9</cod_receta>
+			<cod_ingrediente>9</cod_ingrediente>
+			<cantidad>8</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>9</cod_receta>
+			<cod_ingrediente>10</cod_ingrediente>
+			<cantidad>1 puñado</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>9</cod_receta>
+			<cod_ingrediente>11</cod_ingrediente>
+			<cantidad>4</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>9</cod_receta>
+			<cod_ingrediente>12</cod_ingrediente>
+			<cantidad>200 grs</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>9</cod_receta>
+			<cod_ingrediente>13</cod_ingrediente>
+			<cantidad>200 grs</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>9</cod_receta>
+			<cod_ingrediente>14</cod_ingrediente>
+			<cantidad>200 grs</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>9</cod_receta>
+			<cod_ingrediente>15</cod_ingrediente>
+			<cantidad>100 grs</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>9</cod_receta>
+			<cod_ingrediente>16</cod_ingrediente>
+			<cantidad>100 grs</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>9</cod_receta>
+			<cod_ingrediente>17</cod_ingrediente>
+			<cantidad>1 diente</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>10</cod_receta>
+			<cod_ingrediente>14</cod_ingrediente>
+			<cantidad>6</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>10</cod_receta>
+			<cod_ingrediente>18</cod_ingrediente>
+			<cantidad>6 medianos</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>10</cod_receta>
+			<cod_ingrediente>19</cod_ingrediente>
+			<cantidad>1/2 litro</cantidad>
+		</compuesta>
+		<compuesta>
+			<cod_receta>10</cod_receta>
+			<cod_ingrediente>6</cod_ingrediente>
+			<cantidad>50 grs</cantidad>
+		</compuesta>
+	</compuestas>
+</data_base>
