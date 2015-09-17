@@ -75,3 +75,14 @@ escrito de los pasos llevados a cabo y la investigación realizada para este pri
 examen. Mande un email con la liga de su examen y su reporte digital a
 raulms@itesm.mx. Incluya en la página inicial del site HTML5 las ligas a las respuestas
 del punto 3, además de los archivos fuente, y sus respectivas ligas a la página inicial.
+
+
+Colores:
+
+#a22430
+#ae3f4a
+#c5767e
+#d19298
+#dcadb1
+#e8c8cb
+#f3e4e5
