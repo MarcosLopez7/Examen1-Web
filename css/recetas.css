@@ -1,4 +1,40 @@
+h2
+{
+	color: #a22430;
+	padding-left: 20px;
+}
+
+footer
+{
+	margin-bottom: 15px;
+}
+
 .cajita
 {
-	background-color: red;
+	background-color: #ae3f4a;
+	width: 40%;
+	float: left;
+	text-align: left;
+	margin: 20px;
+	color: #f3e4e5;
+}
+
+.imagen
+{
+	float: right;
+	width: 50%;
+	margin-right: 45%;
+	margin-top: -135px;
+	text-align: right;
+}
+
+img
+{
+	width: 90px;
+	height: 100px;
+}
+
+ul
+{
+	list-style: none;
 }
