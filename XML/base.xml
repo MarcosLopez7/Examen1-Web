@@ -1,0 +1,281 @@
+<?xml version="1.0"?>
+<mysqldump xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<database name="data_base">
+	<table_structure name="compuesta">
+		<field Field="cod_receta" Type="int(11)" Null="YES" Key="MUL" Extra="" Comment="" />
+		<field Field="cod_ingrediente" Type="int(11)" Null="YES" Key="MUL" Extra="" Comment="" />
+		<field Field="cantidad" Type="varchar(255)" Null="YES" Key="" Extra="" Comment="" />
+		<key Table="compuesta" Non_unique="1" Key_name="cod_receta" Seq_in_index="1" Column_name="cod_receta" Collation="A" Cardinality="6" Null="YES" Index_type="BTREE" Comment="" Index_comment="" />
+		<key Table="compuesta" Non_unique="1" Key_name="cod_ingrediente" Seq_in_index="1" Column_name="cod_ingrediente" Collation="A" Cardinality="24" Null="YES" Index_type="BTREE" Comment="" Index_comment="" />
+		<options Name="compuesta" Engine="InnoDB" Version="10" Row_format="Compact" Rows="24" Avg_row_length="682" Data_length="16384" Max_data_length="0" Index_length="32768" Data_free="9437184" Create_time="2015-09-17 16:56:48" Collation="latin1_swedish_ci" Create_options="" Comment="" />
+	</table_structure>
+	<table_data name="compuesta">
+	<row>
+		<field name="cod_receta">7</field>
+		<field name="cod_ingrediente">4</field>
+		<field name="cantidad">300 grs</field>
+	</row>
+	<row>
+		<field name="cod_receta">7</field>
+		<field name="cod_ingrediente">5</field>
+		<field name="cantidad">4</field>
+	</row>
+	<row>
+		<field name="cod_receta">7</field>
+		<field name="cod_ingrediente">6</field>
+		<field name="cantidad" xsi:nil="true" />
+	</row>
+	<row>
+		<field name="cod_receta">7</field>
+		<field name="cod_ingrediente">7</field>
+		<field name="cantidad">1 vaso</field>
+	</row>
+	<row>
+		<field name="cod_receta">8</field>
+		<field name="cod_ingrediente">4</field>
+		<field name="cantidad">200 grs</field>
+	</row>
+	<row>
+		<field name="cod_receta">8</field>
+		<field name="cod_ingrediente">8</field>
+		<field name="cantidad">250 grs</field>
+	</row>
+	<row>
+		<field name="cod_receta">8</field>
+		<field name="cod_ingrediente">9</field>
+		<field name="cantidad">8</field>
+	</row>
+	<row>
+		<field name="cod_receta">8</field>
+		<field name="cod_ingrediente">10</field>
+		<field name="cantidad">1 puñado</field>
+	</row>
+	<row>
+		<field name="cod_receta">8</field>
+		<field name="cod_ingrediente">11</field>
+		<field name="cantidad">4</field>
+	</row>
+	<row>
+		<field name="cod_receta">9</field>
+		<field name="cod_ingrediente">4</field>
+		<field name="cantidad">200 grs</field>
+	</row>
+	<row>
+		<field name="cod_receta">9</field>
+		<field name="cod_ingrediente">8</field>
+		<field name="cantidad">250 grs</field>
+	</row>
+	<row>
+		<field name="cod_receta">9</field>
+		<field name="cod_ingrediente">9</field>
+		<field name="cantidad">8</field>
+	</row>
+	<row>
+		<field name="cod_receta">9</field>
+		<field name="cod_ingrediente">10</field>
+		<field name="cantidad">1 puñado</field>
+	</row>
+	<row>
+		<field name="cod_receta">9</field>
+		<field name="cod_ingrediente">11</field>
+		<field name="cantidad">4</field>
+	</row>
+	<row>
+		<field name="cod_receta">9</field>
+		<field name="cod_ingrediente">12</field>
+		<field name="cantidad">200 grs</field>
+	</row>
+	<row>
+		<field name="cod_receta">9</field>
+		<field name="cod_ingrediente">13</field>
+		<field name="cantidad">200 grs</field>
+	</row>
+	<row>
+		<field name="cod_receta">9</field>
+		<field name="cod_ingrediente">14</field>
+		<field name="cantidad">100 grs</field>
+	</row>
+	<row>
+		<field name="cod_receta">9</field>
+		<field name="cod_ingrediente">15</field>
+		<field name="cantidad">100 grs</field>
+	</row>
+	<row>
+		<field name="cod_receta">9</field>
+		<field name="cod_ingrediente">16</field>
+		<field name="cantidad">100 grs</field>
+	</row>
+	<row>
+		<field name="cod_receta">9</field>
+		<field name="cod_ingrediente">17</field>
+		<field name="cantidad">1 diente</field>
+	</row>
+	<row>
+		<field name="cod_receta">10</field>
+		<field name="cod_ingrediente">14</field>
+		<field name="cantidad">6</field>
+	</row>
+	<row>
+		<field name="cod_receta">10</field>
+		<field name="cod_ingrediente">18</field>
+		<field name="cantidad">6 medianos</field>
+	</row>
+	<row>
+		<field name="cod_receta">10</field>
+		<field name="cod_ingrediente">19</field>
+		<field name="cantidad">1/2 litro</field>
+	</row>
+	<row>
+		<field name="cod_receta">10</field>
+		<field name="cod_ingrediente">6</field>
+		<field name="cantidad">50 grs</field>
+	</row>
+	</table_data>
+	<table_structure name="ingrediente">
+		<field Field="cod_ingrediente" Type="int(11)" Null="NO" Key="PRI" Extra="" Comment="" />
+		<field Field="nombre" Type="varchar(255)" Null="YES" Key="" Extra="" Comment="" />
+		<key Table="ingrediente" Non_unique="0" Key_name="PRIMARY" Seq_in_index="1" Column_name="cod_ingrediente" Collation="A" Cardinality="2" Null="" Index_type="BTREE" Comment="" Index_comment="" />
+		<options Name="ingrediente" Engine="InnoDB" Version="10" Row_format="Compact" Rows="16" Avg_row_length="1024" Data_length="16384" Max_data_length="0" Index_length="0" Data_free="9437184" Create_time="2015-09-17 16:50:27" Collation="latin1_swedish_ci" Create_options="" Comment="" />
+	</table_structure>
+	<table_data name="ingrediente">
+	<row>
+		<field name="cod_ingrediente">4</field>
+		<field name="nombre">Cintas</field>
+	</row>
+	<row>
+		<field name="cod_ingrediente">5</field>
+		<field name="nombre">Yemas de huevo</field>
+	</row>
+	<row>
+		<field name="cod_ingrediente">6</field>
+		<field name="nombre">Queso rallado</field>
+	</row>
+	<row>
+		<field name="cod_ingrediente">7</field>
+		<field name="nombre">Nata liquida</field>
+	</row>
+	<row>
+		<field name="cod_ingrediente">8</field>
+		<field name="nombre">Brecol</field>
+	</row>
+	<row>
+		<field name="cod_ingrediente">9</field>
+		<field name="nombre">Anchoas</field>
+	</row>
+	<row>
+		<field name="cod_ingrediente">10</field>
+		<field name="nombre">Aceitunas negras</field>
+	</row>
+	<row>
+		<field name="cod_ingrediente">11</field>
+		<field name="nombre">Lonchas de queso</field>
+	</row>
+	<row>
+		<field name="cod_ingrediente">12</field>
+		<field name="nombre">Coliflor</field>
+	</row>
+	<row>
+		<field name="cod_ingrediente">13</field>
+		<field name="nombre">Espinacas</field>
+	</row>
+	<row>
+		<field name="cod_ingrediente">14</field>
+		<field name="nombre">Puerrps</field>
+	</row>
+	<row>
+		<field name="cod_ingrediente">15</field>
+		<field name="nombre">Zanahorias</field>
+	</row>
+	<row>
+		<field name="cod_ingrediente">16</field>
+		<field name="nombre">Judías verdes</field>
+	</row>
+	<row>
+		<field name="cod_ingrediente">17</field>
+		<field name="nombre">Ajos</field>
+	</row>
+	<row>
+		<field name="cod_ingrediente">18</field>
+		<field name="nombre">Pimientos</field>
+	</row>
+	<row>
+		<field name="cod_ingrediente">19</field>
+		<field name="nombre">Bechamel</field>
+	</row>
+	</table_data>
+	<table_structure name="libro">
+		<field Field="isbn" Type="varchar(255)" Null="NO" Key="PRI" Extra="" Comment="" />
+		<field Field="titulo" Type="varchar(255)" Null="YES" Key="" Extra="" Comment="" />
+		<field Field="autor" Type="varchar(255)" Null="YES" Key="" Extra="" Comment="" />
+		<key Table="libro" Non_unique="0" Key_name="PRIMARY" Seq_in_index="1" Column_name="isbn" Collation="A" Cardinality="3" Null="" Index_type="BTREE" Comment="" Index_comment="" />
+		<options Name="libro" Engine="InnoDB" Version="10" Row_format="Compact" Rows="3" Avg_row_length="5461" Data_length="16384" Max_data_length="0" Index_length="0" Data_free="9437184" Create_time="2015-09-17 16:46:41" Collation="latin1_swedish_ci" Create_options="" Comment="" />
+	</table_structure>
+	<table_data name="libro">
+	<row>
+		<field name="isbn">84-324-8776-3</field>
+		<field name="titulo">La Cocina Para Estar en Forma</field>
+		<field name="autor">Karlos Arguiñano</field>
+	</row>
+	<row>
+		<field name="isbn">84-403-6999-5</field>
+		<field name="titulo">La Cocina Práctica</field>
+		<field name="autor">Karlos Arguiñano</field>
+	</row>
+	<row>
+		<field name="isbn">84-404-9666-4</field>
+		<field name="titulo">Guía Práctica de Cocina Oriental</field>
+		<field name="autor">K. C. Chin</field>
+	</row>
+	</table_data>
+	<table_structure name="receta">
+		<field Field="cod_receta" Type="int(11)" Null="NO" Key="PRI" Extra="" Comment="" />
+		<field Field="tipo" Type="varchar(255)" Null="YES" Key="" Extra="" Comment="" />
+		<field Field="descripcion" Type="varchar(255)" Null="YES" Key="" Extra="" Comment="" />
+		<field Field="fecha" Type="date" Null="YES" Key="" Extra="" Comment="" />
+		<field Field="titulo_original" Type="varchar(255)" Null="YES" Key="" Extra="" Comment="" />
+		<field Field="isbn" Type="varchar(255)" Null="YES" Key="MUL" Extra="" Comment="" />
+		<field Field="cod_receta_padre" Type="int(11)" Null="YES" Key="" Extra="" Comment="" />
+		<key Table="receta" Non_unique="0" Key_name="PRIMARY" Seq_in_index="1" Column_name="cod_receta" Collation="A" Cardinality="2" Null="" Index_type="BTREE" Comment="" Index_comment="" />
+		<key Table="receta" Non_unique="1" Key_name="isbn" Seq_in_index="1" Column_name="isbn" Collation="A" Cardinality="2" Null="YES" Index_type="BTREE" Comment="" Index_comment="" />
+		<options Name="receta" Engine="InnoDB" Version="10" Row_format="Compact" Rows="4" Avg_row_length="4096" Data_length="16384" Max_data_length="0" Index_length="16384" Data_free="9437184" Create_time="2015-09-17 16:49:39" Collation="latin1_swedish_ci" Create_options="" Comment="" />
+	</table_structure>
+	<table_data name="receta">
+	<row>
+		<field name="cod_receta">7</field>
+		<field name="tipo">Pasta</field>
+		<field name="descripcion">La pasta se cuece y se saltea con un poco de aceite. Mezclar la nata con las yemas de huevo batidas e incorporar a la pasta (fuego lento). Fuera del fuego se le añade queso rallado y gratina (2 min)</field>
+		<field name="fecha">1999-03-08</field>
+		<field name="titulo_original">Cintas a la Crema</field>
+		<field name="isbn">84-324-8776-3</field>
+		<field name="cod_receta_padre">3</field>
+	</row>
+	<row>
+		<field name="cod_receta">8</field>
+		<field name="tipo">Pasta</field>
+		<field name="descripcion">Rehogar mantequilla, anchoas y aceitunas. Añadir la pasta cocida y el brecol. Lonchas de queso por encima y gratinar (1.5 min)</field>
+		<field name="fecha">1999-06-13</field>
+		<field name="titulo_original">Cintas con Brecol</field>
+		<field name="isbn">84-324-8776-3</field>
+		<field name="cod_receta_padre" xsi:nil="true" />
+	</row>
+	<row>
+		<field name="cod_receta">9</field>
+		<field name="tipo">Pasta</field>
+		<field name="descripcion">Rehogar la verdura con el ajo. Incorporar la pasta cocida con las anchoas y las aceitunas. Colocar las lonchas de queso gratinar (3 min)</field>
+		<field name="fecha">1999-06-26</field>
+		<field name="titulo_original">Cintas con Brecol</field>
+		<field name="isbn">84-403-6999-5</field>
+		<field name="cod_receta_padre">8</field>
+	</row>
+	<row>
+		<field name="cod_receta">10</field>
+		<field name="tipo">Verduras</field>
+		<field name="descripcion">Freir los aros de pimiento y colocar encima los puedros cocidos. Cubrir con salsa bechamel. Espolvorear con queso rallado y gratinar (5 min)</field>
+		<field name="fecha">1999-06-30</field>
+		<field name="titulo_original">Puerros con bechamel</field>
+		<field name="isbn">84-324-8776-3</field>
+		<field name="cod_receta_padre" xsi:nil="true" />
+	</row>
+	</table_data>
+</database>
+</mysqldump>
