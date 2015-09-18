@@ -605,1004 +605,1004 @@
 			<cantidad>50 grs</cantidad>
 		</compuesta>
 		<compuesta>
-	<cod_receta>16</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
+	<cod_receta>24</cod_receta>
+	<cod_ingrediente>8</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta>9</cod_receta>
-	<cod_ingrediente>'4'</cod_ingrediente>
-	<cantidad>41</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>50</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>47</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'8'</cod_receta>
-	<cod_ingrediente>9</cod_ingrediente>
-	<cantidad>12</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>23</cod_ingrediente>
-	<cantidad>17</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>26</cod_receta>
-	<cod_ingrediente>16</cod_ingrediente>
-	<cantidad>'1</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>32</cod_receta>
-	<cod_ingrediente>9</cod_ingrediente>
-	<cantidad>'8'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>10</cod_receta>
-	<cod_ingrediente>'6'</cod_ingrediente>
-	<cantidad>47</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'8'</cod_receta>
-	<cod_ingrediente>10</cod_ingrediente>
-	<cantidad>9</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>10</cod_ingrediente>
-	<cantidad>11</cantidad>
+	<cod_receta>25</cod_receta>
+	<cod_ingrediente>15</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
 </compuesta>
 <compuesta>
 	<cod_receta>33</cod_receta>
-	<cod_ingrediente>6</cod_ingrediente>
-	<cantidad>'8'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>4</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>9</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>19</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>12</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>4</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>14</cod_receta>
-	<cod_ingrediente>'6'</cod_ingrediente>
-	<cantidad>32</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>35</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'200grs'</cod_receta>
-	<cod_ingrediente>36</cod_ingrediente>
-	<cantidad>7</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>21</cod_ingrediente>
-	<cantidad>12</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>9</cod_receta>
-	<cod_ingrediente>5</cod_ingrediente>
-	<cantidad>'1</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>30</cod_receta>
-	<cod_ingrediente>5</cod_ingrediente>
-	<cantidad>'1</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>34</cod_receta>
-	<cod_ingrediente>16</cod_ingrediente>
-	<cantidad>'1</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>44</cod_receta>
-	<cod_ingrediente>14</cod_ingrediente>
-	<cantidad>'8'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>17</cod_receta>
-	<cod_ingrediente>'8'</cod_ingrediente>
-	<cantidad>35</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>46</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>29</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>9</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'6'</cod_receta>
-	<cod_ingrediente>43</cod_ingrediente>
-	<cantidad>19</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>49</cod_ingrediente>
-	<cantidad>14</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>22</cod_ingrediente>
-	<cantidad>11</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>37</cod_receta>
-	<cod_ingrediente>6</cod_ingrediente>
-	<cantidad>'200grs'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>15</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>6</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
+	<cod_ingrediente>10</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
 	<cod_receta>10</cod_receta>
-	<cod_ingrediente>'8'</cod_ingrediente>
-	<cantidad>50</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'6'</cod_receta>
-	<cod_ingrediente>28</cod_ingrediente>
-	<cantidad>4</cantidad>
+	<cod_ingrediente>17</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
 	<cod_receta>21</cod_receta>
-	<cod_ingrediente>12</cod_ingrediente>
-	<cantidad>'1</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>42</cod_receta>
-	<cod_ingrediente>16</cod_ingrediente>
-	<cantidad>'8'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>12</cod_receta>
-	<cod_ingrediente>'8'</cod_ingrediente>
-	<cantidad>48</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>27</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>30</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>26</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>28</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'8'</cod_receta>
-	<cod_ingrediente>39</cod_ingrediente>
-	<cantidad>13</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>38</cod_receta>
-	<cod_ingrediente>12</cod_ingrediente>
-	<cantidad>'1</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>18</cod_receta>
 	<cod_ingrediente>15</cod_ingrediente>
-	<cantidad>'8'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>4</cod_receta>
-	<cod_ingrediente>'8'</cod_ingrediente>
-	<cantidad>44</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>28</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>39</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>26</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'8'</cod_receta>
-	<cod_ingrediente>45</cod_ingrediente>
-	<cantidad>14</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>20</cod_ingrediente>
-	<cantidad>15</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>20</cod_ingrediente>
-	<cantidad>10</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>33</cod_receta>
-	<cod_ingrediente>16</cod_ingrediente>
-	<cantidad>'1</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>43</cod_receta>
-	<cod_ingrediente>9</cod_ingrediente>
-	<cantidad>'6'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>9</cod_receta>
-	<cod_ingrediente>'500grs'</cod_ingrediente>
-	<cantidad>19</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'8'</cod_receta>
-	<cod_ingrediente>16</cod_ingrediente>
-	<cantidad>15</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>35</cod_ingrediente>
-	<cantidad>7</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>33</cod_receta>
-	<cod_ingrediente>11</cod_ingrediente>
-	<cantidad>'1</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>11</cod_receta>
-	<cod_ingrediente>18</cod_ingrediente>
-	<cantidad>'200grs'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>9</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>5</cod_receta>
-	<cod_ingrediente>'8'</cod_ingrediente>
-	<cantidad>43</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>22</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>13</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>12</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>42</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>33</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'200grs'</cod_receta>
-	<cod_ingrediente>47</cod_ingrediente>
-	<cantidad>7</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>11</cod_receta>
-	<cod_ingrediente>16</cod_ingrediente>
-	<cantidad>'8'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>15</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>14</cod_receta>
-	<cod_ingrediente>'500grs'</cod_ingrediente>
-	<cantidad>11</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'8'</cod_receta>
-	<cod_ingrediente>44</cod_ingrediente>
-	<cantidad>5</cantidad>
+	<cantidad>'300grs'</cantidad>
 </compuesta>
 <compuesta>
 	<cod_receta>17</cod_receta>
-	<cod_ingrediente>7</cod_ingrediente>
-	<cantidad>'1</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>49</cod_receta>
 	<cod_ingrediente>13</cod_ingrediente>
-	<cantidad>'6'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>16</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>9</cod_receta>
-	<cod_ingrediente>'8'</cod_ingrediente>
-	<cantidad>32</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'8'</cod_receta>
-	<cod_ingrediente>50</cod_ingrediente>
-	<cantidad>11</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>36</cod_ingrediente>
-	<cantidad>15</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>16</cod_receta>
-	<cod_ingrediente>4</cod_ingrediente>
-	<cantidad>'6'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>5</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>6</cod_receta>
-	<cod_ingrediente>'6'</cod_ingrediente>
-	<cantidad>47</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>32</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'8'</cod_receta>
-	<cod_ingrediente>17</cod_ingrediente>
-	<cantidad>13</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>34</cod_receta>
-	<cod_ingrediente>14</cod_ingrediente>
-	<cantidad>'1</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>16</cod_receta>
-	<cod_ingrediente>7</cod_ingrediente>
-	<cantidad>'200grs'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>19</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>vaso'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>11</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>13</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>11</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>13</cod_receta>
-	<cod_ingrediente>'500grs'</cod_ingrediente>
-	<cantidad>9</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'200grs'</cod_receta>
-	<cod_ingrediente>41</cod_ingrediente>
-	<cantidad>11</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>41</cod_ingrediente>
-	<cantidad>9</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>26</cod_receta>
-	<cod_ingrediente>7</cod_ingrediente>
-	<cantidad>'8'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>4</cod_receta>
-	<cod_ingrediente>'500grs'</cod_ingrediente>
-	<cantidad>41</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'8'</cod_receta>
-	<cod_ingrediente>12</cod_ingrediente>
-	<cantidad>9</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>20</cod_receta>
-	<cod_ingrediente>18</cod_ingrediente>
-	<cantidad>'4'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>9</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>7</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
 	<cod_receta>12</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>13</cod_receta>
-	<cod_ingrediente>'6'</cod_ingrediente>
-	<cantidad>30</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>12</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>22</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>49</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>17</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>48</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>22</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>46</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>10</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'8'</cod_receta>
-	<cod_ingrediente>43</cod_ingrediente>
-	<cantidad>15</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>45</cod_ingrediente>
-	<cantidad>17</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>25</cod_ingrediente>
-	<cantidad>18</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>12</cod_receta>
-	<cod_ingrediente>9</cod_ingrediente>
-	<cantidad>'1</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>20</cod_receta>
-	<cod_ingrediente>12</cod_ingrediente>
-	<cantidad>'4'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>19</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>16</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
+	<cod_ingrediente>19</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
 </compuesta>
 <compuesta>
 	<cod_receta>10</cod_receta>
-	<cod_ingrediente>'8'</cod_ingrediente>
-	<cantidad>33</cantidad>
+	<cod_ingrediente>19</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta>'8'</cod_receta>
-	<cod_ingrediente>28</cod_ingrediente>
-	<cantidad>8</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>44</cod_receta>
+	<cod_receta>45</cod_receta>
 	<cod_ingrediente>16</cod_ingrediente>
-	<cantidad>'6'</cantidad>
+	<cantidad>'100grs'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta>13</cod_receta>
-	<cod_ingrediente>'4'</cod_ingrediente>
-	<cantidad>40</cantidad>
+	<cod_receta>39</cod_receta>
+	<cod_ingrediente>9</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>37</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'8'</cod_receta>
-	<cod_ingrediente>41</cod_ingrediente>
-	<cantidad>4</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>14</cod_ingrediente>
-	<cantidad>9</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>14</cod_receta>
-	<cod_ingrediente>10</cod_ingrediente>
-	<cantidad>'6'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>4</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>12</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>vaso'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>9</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>6</cod_receta>
-	<cod_ingrediente>'8'</cod_ingrediente>
-	<cantidad>21</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>38</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'6'</cod_receta>
-	<cod_ingrediente>18</cod_ingrediente>
-	<cantidad>5</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>49</cod_receta>
-	<cod_ingrediente>19</cod_ingrediente>
-	<cantidad>'8'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>18</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>10</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>11</cod_receta>
-	<cod_ingrediente>'8'</cod_ingrediente>
-	<cantidad>22</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'8'</cod_receta>
-	<cod_ingrediente>31</cod_ingrediente>
-	<cantidad>19</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>24</cod_ingrediente>
-	<cantidad>15</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>42</cod_ingrediente>
-	<cantidad>16</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>36</cod_receta>
-	<cod_ingrediente>18</cod_ingrediente>
-	<cantidad>'8'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>18</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>10</cod_receta>
-	<cod_ingrediente>'6'</cod_ingrediente>
-	<cantidad>10</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'6'</cod_receta>
-	<cod_ingrediente>21</cod_ingrediente>
-	<cantidad>8</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>37</cod_ingrediente>
-	<cantidad>18</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>50</cod_ingrediente>
-	<cantidad>7</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>24</cod_ingrediente>
-	<cantidad>16</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>23</cod_receta>
-	<cod_ingrediente>4</cod_ingrediente>
-	<cantidad>'1</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>19</cod_receta>
-	<cod_ingrediente>19</cod_ingrediente>
-	<cantidad>'8'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>12</cod_receta>
-	<cod_ingrediente>'8'</cod_ingrediente>
-	<cantidad>40</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>17</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>31</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'8'</cod_receta>
-	<cod_ingrediente>12</cod_ingrediente>
-	<cantidad>8</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>18</cod_ingrediente>
-	<cantidad>13</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>12</cod_receta>
+	<cod_receta>45</cod_receta>
 	<cod_ingrediente>11</cod_ingrediente>
-	<cantidad>'1</cantidad>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta>37</cod_receta>
-	<cod_ingrediente>6</cod_ingrediente>
-	<cantidad>'8'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>5</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>10</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>5</cod_receta>
-	<cod_ingrediente>'6'</cod_ingrediente>
-	<cantidad>15</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'8'</cod_receta>
-	<cod_ingrediente>48</cod_ingrediente>
-	<cantidad>19</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>20</cod_ingrediente>
-	<cantidad>7</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>35</cod_ingrediente>
-	<cantidad>10</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente>27</cod_ingrediente>
-	<cantidad>13</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>28</cod_receta>
-	<cod_ingrediente>13</cod_ingrediente>
-	<cantidad>'1</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>43</cod_receta>
+	<cod_receta>24</cod_receta>
 	<cod_ingrediente>10</cod_ingrediente>
 	<cantidad>'500grs'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta>11</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>6</cod_receta>
-	<cod_ingrediente>'8'</cod_ingrediente>
-	<cantidad>11</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>'8'</cod_receta>
-	<cod_ingrediente>15</cod_ingrediente>
-	<cantidad>17</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>24</cod_receta>
-	<cod_ingrediente>9</cod_ingrediente>
-	<cantidad>'1</cantidad>
-</compuesta>
-<compuesta>
-	<cod_receta>18</cod_receta>
+	<cod_receta>40</cod_receta>
 	<cod_ingrediente>10</cod_ingrediente>
 	<cantidad>'300grs'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta>19</cod_receta>
-	<cod_ingrediente>'6'</cod_ingrediente>
-	<cantidad>10</cantidad>
+	<cod_receta>49</cod_receta>
+	<cod_ingrediente>18</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta>'1</cod_receta>
-	<cod_ingrediente>puñado'</cod_ingrediente>
-	<cantidad>17</cantidad>
+	<cod_receta>17</cod_receta>
+	<cod_ingrediente>19</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta>'8'</cod_receta>
-	<cod_ingrediente>40</cod_ingrediente>
-	<cantidad>14</cantidad>
+	<cod_receta>34</cod_receta>
+	<cod_ingrediente>13</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta>42</cod_receta>
-	<cod_ingrediente>4</cod_ingrediente>
-	<cantidad>'1</cantidad>
+	<cod_receta>18</cod_receta>
+	<cod_ingrediente>8</cod_ingrediente>
+	<cantidad>'300grs'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta>16</cod_receta>
-	<cod_ingrediente>17</cod_ingrediente>
+	<cod_receta>23</cod_receta>
+	<cod_ingrediente>19</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>49</cod_receta>
+	<cod_ingrediente>14</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>30</cod_receta>
+	<cod_ingrediente>8</cod_ingrediente>
 	<cantidad>'8'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta>19</cod_receta>
-	<cod_ingrediente>'1</cod_ingrediente>
-	<cantidad>puñado'</cantidad>
+	<cod_receta>50</cod_receta>
+	<cod_ingrediente>15</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta>5</cod_receta>
-	<cod_ingrediente>'8'</cod_ingrediente>
-	<cantidad>39</cantidad>
+	<cod_receta>28</cod_receta>
+	<cod_ingrediente>12</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta>'6'</cod_receta>
+	<cod_receta>42</cod_receta>
+	<cod_ingrediente>11</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>11</cod_receta>
+	<cod_ingrediente>7</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>13</cod_receta>
+	<cod_ingrediente>6</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>13</cod_receta>
+	<cod_ingrediente>6</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>33</cod_receta>
+	<cod_ingrediente>15</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>41</cod_receta>
+	<cod_ingrediente>18</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>8</cod_receta>
 	<cod_ingrediente>14</cod_ingrediente>
-	<cantidad>18</cantidad>
+	<cantidad>'200grs'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta>puñado'</cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>29</cod_receta>
+	<cod_ingrediente>19</cod_ingrediente>
+	<cantidad>'8'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>31</cod_receta>
+	<cod_ingrediente>6</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>36</cod_receta>
+	<cod_ingrediente>6</cod_ingrediente>
+	<cantidad>'8'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>24</cod_receta>
+	<cod_ingrediente>5</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>29</cod_receta>
+	<cod_ingrediente>4</cod_ingrediente>
+	<cantidad>'300grs'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>44</cod_receta>
+	<cod_ingrediente>4</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>20</cod_receta>
+	<cod_ingrediente>19</cod_ingrediente>
+	<cantidad>'200grs'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>38</cod_receta>
+	<cod_ingrediente>12</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>28</cod_receta>
+	<cod_ingrediente>4</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>40</cod_receta>
+	<cod_ingrediente>10</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>28</cod_receta>
+	<cod_ingrediente>10</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>41</cod_receta>
+	<cod_ingrediente>11</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>46</cod_receta>
+	<cod_ingrediente>19</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>18</cod_receta>
+	<cod_ingrediente>6</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>15</cod_receta>
+	<cod_ingrediente>11</cod_ingrediente>
+	<cantidad>'100grs'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>14</cod_receta>
+	<cod_ingrediente>18</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>20</cod_receta>
+	<cod_ingrediente>10</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>28</cod_receta>
+	<cod_ingrediente>6</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>7</cod_receta>
+	<cod_ingrediente>17</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>50</cod_receta>
+	<cod_ingrediente>8</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>10</cod_receta>
+	<cod_ingrediente>15</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>22</cod_receta>
+	<cod_ingrediente>17</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>9</cod_receta>
+	<cod_ingrediente>4</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>17</cod_receta>
+	<cod_ingrediente>15</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
 </compuesta>
 <compuesta>
-	<cod_receta></cod_receta>
-	<cod_ingrediente></cod_ingrediente>
-	<cantidad></cantidad>
+	<cod_receta>32</cod_receta>
+	<cod_ingrediente>10</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>20</cod_receta>
+	<cod_ingrediente>7</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>18</cod_receta>
+	<cod_ingrediente>10</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>32</cod_receta>
+	<cod_ingrediente>10</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>16</cod_receta>
+	<cod_ingrediente>19</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>30</cod_receta>
+	<cod_ingrediente>14</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>49</cod_receta>
+	<cod_ingrediente>9</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>28</cod_receta>
+	<cod_ingrediente>15</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>7</cod_receta>
+	<cod_ingrediente>12</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>20</cod_receta>
+	<cod_ingrediente>4</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>9</cod_receta>
+	<cod_ingrediente>7</cod_ingrediente>
+	<cantidad>'200grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>21</cod_receta>
+	<cod_ingrediente>6</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>15</cod_receta>
+	<cod_ingrediente>9</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>45</cod_receta>
+	<cod_ingrediente>11</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>49</cod_receta>
+	<cod_ingrediente>10</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>38</cod_receta>
+	<cod_ingrediente>10</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>19</cod_receta>
+	<cod_ingrediente>9</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>8</cod_receta>
+	<cod_ingrediente>6</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>7</cod_receta>
+	<cod_ingrediente>17</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>33</cod_receta>
+	<cod_ingrediente>9</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>11</cod_receta>
+	<cod_ingrediente>9</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>17</cod_receta>
+	<cod_ingrediente>16</cod_ingrediente>
+	<cantidad>'300grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>49</cod_receta>
+	<cod_ingrediente>14</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>49</cod_receta>
+	<cod_ingrediente>16</cod_ingrediente>
+	<cantidad>'300grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>50</cod_receta>
+	<cod_ingrediente>16</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>13</cod_receta>
+	<cod_ingrediente>11</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>43</cod_receta>
+	<cod_ingrediente>12</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>39</cod_receta>
+	<cod_ingrediente>5</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>20</cod_receta>
+	<cod_ingrediente>10</cod_ingrediente>
+	<cantidad>'200grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>45</cod_receta>
+	<cod_ingrediente>6</cod_ingrediente>
+	<cantidad>'300grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>23</cod_receta>
+	<cod_ingrediente>5</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>36</cod_receta>
+	<cod_ingrediente>12</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>37</cod_receta>
+	<cod_ingrediente>7</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>47</cod_receta>
+	<cod_ingrediente>6</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>17</cod_receta>
+	<cod_ingrediente>18</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>44</cod_receta>
+	<cod_ingrediente>15</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>45</cod_receta>
+	<cod_ingrediente>8</cod_ingrediente>
+	<cantidad>'200grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>21</cod_receta>
+	<cod_ingrediente>19</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>43</cod_receta>
+	<cod_ingrediente>14</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>28</cod_receta>
+	<cod_ingrediente>13</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>41</cod_receta>
+	<cod_ingrediente>12</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>34</cod_receta>
+	<cod_ingrediente>13</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>46</cod_receta>
+	<cod_ingrediente>16</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>48</cod_receta>
+	<cod_ingrediente>6</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>40</cod_receta>
+	<cod_ingrediente>18</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>24</cod_receta>
+	<cod_ingrediente>12</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>17</cod_receta>
+	<cod_ingrediente>19</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>19</cod_receta>
+	<cod_ingrediente>14</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>18</cod_receta>
+	<cod_ingrediente>18</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>47</cod_receta>
+	<cod_ingrediente>18</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>43</cod_receta>
+	<cod_ingrediente>15</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>31</cod_receta>
+	<cod_ingrediente>13</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>49</cod_receta>
+	<cod_ingrediente>10</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>49</cod_receta>
+	<cod_ingrediente>11</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>26</cod_receta>
+	<cod_ingrediente>8</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>36</cod_receta>
+	<cod_ingrediente>12</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>15</cod_receta>
+	<cod_ingrediente>8</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>12</cod_receta>
+	<cod_ingrediente>15</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>38</cod_receta>
+	<cod_ingrediente>11</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>33</cod_receta>
+	<cod_ingrediente>11</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>10</cod_receta>
+	<cod_ingrediente>14</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>41</cod_receta>
+	<cod_ingrediente>11</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>30</cod_receta>
+	<cod_ingrediente>5</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>32</cod_receta>
+	<cod_ingrediente>11</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>13</cod_receta>
+	<cod_ingrediente>8</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>32</cod_receta>
+	<cod_ingrediente>11</cod_ingrediente>
+	<cantidad>'300grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>30</cod_receta>
+	<cod_ingrediente>18</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>34</cod_receta>
+	<cod_ingrediente>9</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>29</cod_receta>
+	<cod_ingrediente>15</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>23</cod_receta>
+	<cod_ingrediente>18</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>15</cod_receta>
+	<cod_ingrediente>16</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>26</cod_receta>
+	<cod_ingrediente>19</cod_ingrediente>
+	<cantidad>'300grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>45</cod_receta>
+	<cod_ingrediente>10</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>24</cod_receta>
+	<cod_ingrediente>12</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>37</cod_receta>
+	<cod_ingrediente>9</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>43</cod_receta>
+	<cod_ingrediente>19</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>33</cod_receta>
+	<cod_ingrediente>16</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>24</cod_receta>
+	<cod_ingrediente>14</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>11</cod_receta>
+	<cod_ingrediente>4</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>16</cod_receta>
+	<cod_ingrediente>7</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>24</cod_receta>
+	<cod_ingrediente>12</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>32</cod_receta>
+	<cod_ingrediente>14</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>11</cod_receta>
+	<cod_ingrediente>15</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>31</cod_receta>
+	<cod_ingrediente>12</cod_ingrediente>
+	<cantidad>'300grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>34</cod_receta>
+	<cod_ingrediente>5</cod_ingrediente>
+	<cantidad>'300grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>50</cod_receta>
+	<cod_ingrediente>8</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>34</cod_receta>
+	<cod_ingrediente>16</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>19</cod_receta>
+	<cod_ingrediente>15</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>19</cod_receta>
+	<cod_ingrediente>18</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>50</cod_receta>
+	<cod_ingrediente>7</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>41</cod_receta>
+	<cod_ingrediente>6</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>41</cod_receta>
+	<cod_ingrediente>8</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>17</cod_receta>
+	<cod_ingrediente>11</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>35</cod_receta>
+	<cod_ingrediente>9</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>25</cod_receta>
+	<cod_ingrediente>8</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>7</cod_receta>
+	<cod_ingrediente>5</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>20</cod_receta>
+	<cod_ingrediente>16</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>49</cod_receta>
+	<cod_ingrediente>13</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>8</cod_receta>
+	<cod_ingrediente>18</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>24</cod_receta>
+	<cod_ingrediente>11</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>29</cod_receta>
+	<cod_ingrediente>14</cod_ingrediente>
+	<cantidad>'300grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>45</cod_receta>
+	<cod_ingrediente>10</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>19</cod_receta>
+	<cod_ingrediente>10</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>15</cod_receta>
+	<cod_ingrediente>5</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>17</cod_receta>
+	<cod_ingrediente>17</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>39</cod_receta>
+	<cod_ingrediente>9</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>17</cod_receta>
+	<cod_ingrediente>9</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>27</cod_receta>
+	<cod_ingrediente>4</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>7</cod_receta>
+	<cod_ingrediente>8</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>14</cod_receta>
+	<cod_ingrediente>11</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>32</cod_receta>
+	<cod_ingrediente>11</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>16</cod_receta>
+	<cod_ingrediente>6</cod_ingrediente>
+	<cantidad>'200grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>16</cod_receta>
+	<cod_ingrediente>12</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>16</cod_receta>
+	<cod_ingrediente>5</cod_ingrediente>
+	<cantidad>'300grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>20</cod_receta>
+	<cod_ingrediente>13</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>45</cod_receta>
+	<cod_ingrediente>14</cod_ingrediente>
+	<cantidad>'300grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>35</cod_receta>
+	<cod_ingrediente>18</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>21</cod_receta>
+	<cod_ingrediente>8</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>49</cod_receta>
+	<cod_ingrediente>7</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>40</cod_receta>
+	<cod_ingrediente>13</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>49</cod_receta>
+	<cod_ingrediente>15</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>31</cod_receta>
+	<cod_ingrediente>7</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>33</cod_receta>
+	<cod_ingrediente>18</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>42</cod_receta>
+	<cod_ingrediente>12</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>24</cod_receta>
+	<cod_ingrediente>7</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>45</cod_receta>
+	<cod_ingrediente>4</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>39</cod_receta>
+	<cod_ingrediente>13</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>40</cod_receta>
+	<cod_ingrediente>15</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>47</cod_receta>
+	<cod_ingrediente>4</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>13</cod_receta>
+	<cod_ingrediente>14</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>34</cod_receta>
+	<cod_ingrediente>16</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>44</cod_receta>
+	<cod_ingrediente>7</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>36</cod_receta>
+	<cod_ingrediente>4</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>31</cod_receta>
+	<cod_ingrediente>18</cod_ingrediente>
+	<cantidad>'500grs'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>38</cod_receta>
+	<cod_ingrediente>5</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>43</cod_receta>
+	<cod_ingrediente>7</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>16</cod_receta>
+	<cod_ingrediente>16</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>31</cod_receta>
+	<cod_ingrediente>10</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>18</cod_receta>
+	<cod_ingrediente>18</cod_ingrediente>
+	<cantidad>'puñado'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>32</cod_receta>
+	<cod_ingrediente>15</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>41</cod_receta>
+	<cod_ingrediente>18</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>49</cod_receta>
+	<cod_ingrediente>5</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>50</cod_receta>
+	<cod_ingrediente>16</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>22</cod_receta>
+	<cod_ingrediente>5</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>49</cod_receta>
+	<cod_ingrediente>12</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>20</cod_receta>
+	<cod_ingrediente>12</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
+</compuesta>
+<compuesta>
+	<cod_receta>44</cod_receta>
+	<cod_ingrediente>15</cod_ingrediente>
+	<cantidad>'vaso'</cantidad>
 </compuesta>
 	</compuestas>
 </data_base>
