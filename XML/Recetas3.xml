@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../XSL/recetas.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../XSL/recetas3.xsl"?>
 <data_base>
 	<libros>
 		<libro>
@@ -30,6 +30,7 @@
 			<titulo_original>Cintas a la Crema</titulo_original>
 			<isbn>84-324-8776-3</isbn>
 			<cod_receta_padre>3</cod_receta_padre>
+			<amigo>Miguel</amigo>
 		</receta>
 		<receta>
 			<cod_receta>8</cod_receta>
@@ -39,6 +40,7 @@
 			<titulo_original>Cintas con Brecol</titulo_original>
 			<isbn>84-324-8776-3</isbn>
 			<cod_receta_padre></cod_receta_padre>
+			<amigo>Miguel</amigo>
 		</receta>
 		<receta>
 			<cod_receta>9</cod_receta>
@@ -48,6 +50,7 @@
 			<titulo_original>Cintas con Brecol</titulo_original>
 			<isbn>84-403-6999-5</isbn>
 			<cod_receta_padre>8</cod_receta_padre>
+			<amigo>Miguel</amigo>
 		</receta>
 		<receta>
 			<cod_receta>10</cod_receta>
@@ -57,6 +60,7 @@
 			<titulo_original>Puerros con bechamel</titulo_original>
 			<isbn>84-324-8776-3</isbn>
 			<cod_receta_padre></cod_receta_padre>
+			<amigo>Miguel</amigo>
 		</receta>
 		<receta>
 			<cod_receta>11</cod_receta>
