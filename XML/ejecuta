@@ -1,0 +1,14 @@
+#!/bin/bash
+
+rm /home/daw-1020023/html_container/p1/examen/XML/bdbk.xml
+touch /home/daw-1020023/html_container/p1/examen/XML/bdbk.xml
+let "i = 1"
+cat /home/daw-1020023/html_container/p1/examen/XML/bd.xml | while read LINE
+do
+	echo $LINE >> /home/daw-1020023/html_container/p1/examen/XML/bdbk.xml
+	if [ 2 -gt $i ]
+	then
+		echo "<?xml-stylesheet type=\"text/xsl\" href=\"../XSL/recetas8.xsl\"?>" >> /home/daw-1020023/html_container/p1/examen/XML/bdbk.xml
+	fi
+	let "i++"
+done

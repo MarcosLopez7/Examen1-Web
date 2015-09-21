@@ -1,0 +1,368 @@
+awk NR==2{print "Hola"}1 db.xml
+<?xml version="1.0"?> Hola <resultset statement="SELECT base.xml bdr.xml bd.xml Recetas2.xml Recetas3.xml Recetas4.xml Recetas5.xml Recetas6.xml Recetas7.xml Recetas.xml FROM daw_1020023.receta r, daw_1020023.libros l WHERE r.isbn = l.isbn ORDER BY r.fecha " xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> <row> <field name="cod_receta">7</field> <field name="tipo">Pasta</field> <field name="descripcion">La pasta se cuece y se saltea con un poco de aceite. Mezclar la nata con las yemas de huevo batidas e incorporar a la pasta (fuego lento). Fuera del fuego se le añade queso rallado y gratina (2 min)</field> <field name="fecha">1999-03-08</field> <field name="titulo_original">Cintas a la Creama</field> <field name="isbn">84-324-8776-3</field> <field name="cod_receta_padre">3</field> <field name="amigo">Miguel</field> <field name="isbn">84-324-8776-3</field> <field name="titulo">La Cocina Para estar en Forma</field> <field name="autor">Karlos Arguiñano</field> <field name="imagen">enforma.jpg</field> </row> <row> <field name="cod_receta">8</field> <field name="tipo">Pasta</field> <field name="descripcion">Rehogar mantequilla, anchoas y aceitunas. Añadir la pasta cocida y el brecol. Lonchas de queso por encima y gratinar (1.5 min)</field> <field name="fecha">1999-06-13</field> <field name="titulo_original">Cintas con Brecol</field> <field name="isbn">84-324-8776-3</field> <field name="cod_receta_padre" xsi:nil="true" /> <field name="amigo">Miguel</field> <field name="isbn">84-324-8776-3</field> <field name="titulo">La Cocina Para estar en Forma</field> <field name="autor">Karlos Arguiñano</field> <field name="imagen">enforma.jpg</field> </row> <row> <field name="cod_receta">9</field> <field name="tipo">Pasta</field> <field name="descripcion">Rehogar la verdura con el ajo. Incorporar la pasta cocida con las anchoas y las aceitunas. Colocar las lonchas de queso gratinar (3 min)</field> <field name="fecha">1999-06-26</field> <field name="titulo_original">Cintas con Brecol</field> <field name="isbn">84-403-6999-5</field> <field name="cod_receta_padre">8</field> <field name="amigo">Miguel</field> <field name="isbn">84-403-6999-5</field> <field name="titulo">La Cocina Práctica</field> <field name="autor">Karlos Arguiñano</field> <field name="imagen">lacocina.jpg</field> </row> <row> <field name="cod_receta">10</field> <field name="tipo">Verduras</field> <field name="descripcion">Freir los aros de pimiento y colocar encima los puedros cocidos. Cubrir con salsa bechamel. Espolvorear con queso rallado y gratinar (5 min)</field> <field name="fecha">1999-06-30</field> <field name="titulo_original">Puerros con bechamel</field> <field name="isbn">84-324-8776-3</field> <field name="cod_receta_padre" xsi:nil="true" /> <field name="amigo">Miguel</field> <field name="isbn">84-324-8776-3</field> <field name="titulo">La Cocina Para estar en Forma</field> <field name="autor">Karlos Arguiñano</field> <field name="imagen">enforma.jpg</field> </row> </resultset>
+
+
+<?xml version="1.0"?> <?xml-stylesheet type="text/xsl" href="../XSL/recetas.xsl"?> <resultset statement="SELECT base.xml bdr.xml bd.xml Recetas2.xml Recetas3.xml Recetas4.xml Recetas5.xml Recetas6.xml Recetas7.xml Recetas.xml FROM daw_1020023.receta r, daw_1020023.libros l WHERE r.isbn = l.isbn ORDER BY r.fecha " xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> <row> <field name="cod_receta">7</field> <field name="tipo">Pasta</field> <field name="descripcion">La pasta se cuece y se saltea con un poco de aceite. Mezclar la nata con las yemas de huevo batidas e incorporar a la pasta (fuego lento). Fuera del fuego se le añade queso rallado y gratina (2 min)</field> <field name="fecha">1999-03-08</field> <field name="titulo_original">Cintas a la Creama</field> <field name="isbn">84-324-8776-3</field> <field name="cod_receta_padre">3</field> <field name="amigo">Miguel</field> <field name="isbn">84-324-8776-3</field> <field name="titulo">La Cocina Para estar en Forma</field> <field name="autor">Karlos Arguiñano</field> <field name="imagen">enforma.jpg</field> </row> <row> <field name="cod_receta">8</field> <field name="tipo">Pasta</field> <field name="descripcion">Rehogar mantequilla, anchoas y aceitunas. Añadir la pasta cocida y el brecol. Lonchas de queso por encima y gratinar (1.5 min)</field> <field name="fecha">1999-06-13</field> <field name="titulo_original">Cintas con Brecol</field> <field name="isbn">84-324-8776-3</field> <field name="cod_receta_padre" xsi:nil="true" /> <field name="amigo">Miguel</field> <field name="isbn">84-324-8776-3</field> <field name="titulo">La Cocina Para estar en Forma</field> <field name="autor">Karlos Arguiñano</field> <field name="imagen">enforma.jpg</field> </row> <row> <field name="cod_receta">9</field> <field name="tipo">Pasta</field> <field name="descripcion">Rehogar la verdura con el ajo. Incorporar la pasta cocida con las anchoas y las aceitunas. Colocar las lonchas de queso gratinar (3 min)</field> <field name="fecha">1999-06-26</field> <field name="titulo_original">Cintas con Brecol</field> <field name="isbn">84-403-6999-5</field> <field name="cod_receta_padre">8</field> <field name="amigo">Miguel</field> <field name="isbn">84-403-6999-5</field> <field name="titulo">La Cocina Práctica</field> <field name="autor">Karlos Arguiñano</field> <field name="imagen">lacocina.jpg</field> </row> <row> <field name="cod_receta">10</field> <field name="tipo">Verduras</field> <field name="descripcion">Freir los aros de pimiento y colocar encima los puedros cocidos. Cubrir con salsa bechamel. Espolvorear con queso rallado y gratinar (5 min)</field> <field name="fecha">1999-06-30</field> <field name="titulo_original">Puerros con bechamel</field> <field name="isbn">84-324-8776-3</field> <field name="cod_receta_padre" xsi:nil="true" /> <field name="amigo">Miguel</field> <field name="isbn">84-324-8776-3</field> <field name="titulo">La Cocina Para estar en Forma</field> <field name="autor">Karlos Arguiñano</field> <field name="imagen">enforma.jpg</field> </row> </resultset>
+<?xml version="1.0"?> <?xml-stylesheet type="text/xsl" href="../XSL/recetas.xsl"?> <resultset statement="SELECT base.xml bdr.xml bd.xml Recetas2.xml Recetas3.xml Recetas4.xml Recetas5.xml Recetas6.xml Recetas7.xml Recetas.xml FROM daw_1020023.receta r, daw_1020023.libros l WHERE r.isbn = l.isbn ORDER BY r.fecha " xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> <row> <field name="cod_receta">7</field> <field name="tipo">Pasta</field> <field name="descripcion">La pasta se cuece y se saltea con un poco de aceite. Mezclar la nata con las yemas de huevo batidas e incorporar a la pasta (fuego lento). Fuera del fuego se le añade queso rallado y gratina (2 min)</field> <field name="fecha">1999-03-08</field> <field name="titulo_original">Cintas a la Creama</field> <field name="isbn">84-324-8776-3</field> <field name="cod_receta_padre">3</field> <field name="amigo">Miguel</field> <field name="isbn">84-324-8776-3</field> <field name="titulo">La Cocina Para estar en Forma</field> <field name="autor">Karlos Arguiñano</field> <field name="imagen">enforma.jpg</field> </row> <row> <field name="cod_receta">8</field> <field name="tipo">Pasta</field> <field name="descripcion">Rehogar mantequilla, anchoas y aceitunas. Añadir la pasta cocida y el brecol. Lonchas de queso por encima y gratinar (1.5 min)</field> <field name="fecha">1999-06-13</field> <field name="titulo_original">Cintas con Brecol</field> <field name="isbn">84-324-8776-3</field> <field name="cod_receta_padre" xsi:nil="true" /> <field name="amigo">Miguel</field> <field name="isbn">84-324-8776-3</field> <field name="titulo">La Cocina Para estar en Forma</field> <field name="autor">Karlos Arguiñano</field> <field name="imagen">enforma.jpg</field> </row> <row> <field name="cod_receta">9</field> <field name="tipo">Pasta</field> <field name="descripcion">Rehogar la verdura con el ajo. Incorporar la pasta cocida con las anchoas y las aceitunas. Colocar las lonchas de queso gratinar (3 min)</field> <field name="fecha">1999-06-26</field> <field name="titulo_original">Cintas con Brecol</field> <field name="isbn">84-403-6999-5</field> <field name="cod_receta_padre">8</field> <field name="amigo">Miguel</field> <field name="isbn">84-403-6999-5</field> <field name="titulo">La Cocina Práctica</field> <field name="autor">Karlos Arguiñano</field> <field name="imagen">lacocina.jpg</field> </row> <row> <field name="cod_receta">10</field> <field name="tipo">Verduras</field> <field name="descripcion">Freir los aros de pimiento y colocar encima los puedros cocidos. Cubrir con salsa bechamel. Espolvorear con queso rallado y gratinar (5 min)</field> <field name="fecha">1999-06-30</field> <field name="titulo_original">Puerros con bechamel</field> <field name="isbn">84-324-8776-3</field> <field name="cod_receta_padre" xsi:nil="true" /> <field name="amigo">Miguel</field> <field name="isbn">84-324-8776-3</field> <field name="titulo">La Cocina Para estar en Forma</field> <field name="autor">Karlos Arguiñano</field> <field name="imagen">enforma.jpg</field> </row> </resultset>
+
+
+
+
+
+<?xml version="1.0"?> <?xml-stylesheet type="text/xsl" href="../XSL/recetas.xsl"?> <resultset statement="SELECT base.xml bdr.xml bd.xml Recetas2.xml Recetas3.xml Recetas4.xml Recetas5.xml Recetas6.xml Recetas7.xml Recetas.xml FROM daw_1020023.receta r, daw_1020023.libros l WHERE r.isbn = l.isbn ORDER BY r.fecha " xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> <row> <field name="cod_receta">7</field> <field name="tipo">Pasta</field> <field name="descripcion">La pasta se cuece y se saltea con un poco de aceite. Mezclar la nata con las yemas de huevo batidas e incorporar a la pasta (fuego lento). Fuera del fuego se le añade queso rallado y gratina (2 min)</field> <field name="fecha">1999-03-08</field> <field name="titulo_original">Cintas a la Creama</field> <field name="isbn">84-324-8776-3</field> <field name="cod_receta_padre">3</field> <field name="amigo">Miguel</field> <field name="isbn">84-324-8776-3</field> <field name="titulo">La Cocina Para estar en Forma</field> <field name="autor">Karlos Arguiñano</field> <field name="imagen">enforma.jpg</field> </row> <row> <field name="cod_receta">8</field> <field name="tipo">Pasta</field> <field name="descripcion">Rehogar mantequilla, anchoas y aceitunas. Añadir la pasta cocida y el brecol. Lonchas de queso por encima y gratinar (1.5 min)</field> <field name="fecha">1999-06-13</field> <field name="titulo_original">Cintas con Brecol</field> <field name="isbn">84-324-8776-3</field> <field name="cod_receta_padre" xsi:nil="true" /> <field name="amigo">Miguel</field> <field name="isbn">84-324-8776-3</field> <field name="titulo">La Cocina Para estar en Forma</field> <field name="autor">Karlos Arguiñano</field> <field name="imagen">enforma.jpg</field> </row> <row> <field name="cod_receta">9</field> <field name="tipo">Pasta</field> <field name="descripcion">Rehogar la verdura con el ajo. Incorporar la pasta cocida con las anchoas y las aceitunas. Colocar las lonchas de queso gratinar (3 min)</field> <field name="fecha">1999-06-26</field> <field name="titulo_original">Cintas con Brecol</field> <field name="isbn">84-403-6999-5</field> <field name="cod_receta_padre">8</field> <field name="amigo">Miguel</field> <field name="isbn">84-403-6999-5</field> <field name="titulo">La Cocina Práctica</field> <field name="autor">Karlos Arguiñano</field> <field name="imagen">lacocina.jpg</field> </row> <row> <field name="cod_receta">10</field> <field name="tipo">Verduras</field> <field name="descripcion">Freir los aros de pimiento y colocar encima los puedros cocidos. Cubrir con salsa bechamel. Espolvorear con queso rallado y gratinar (5 min)</field> <field name="fecha">1999-06-30</field> <field name="titulo_original">Puerros con bechamel</field> <field name="isbn">84-324-8776-3</field> <field name="cod_receta_padre" xsi:nil="true" /> <field name="amigo">Miguel</field> <field name="isbn">84-324-8776-3</field> <field name="titulo">La Cocina Para estar en Forma</field> <field name="autor">Karlos Arguiñano</field> <field name="imagen">enforma.jpg</field> </row> </resultset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0"?>
+
+<resultset statement="SELECT base.xml bdr.xml bd.xml ejecuta Recetas2.xml Recetas3.xml Recetas4.xml Recetas5.xml Recetas6.xml Recetas7.xml Recetas.xml FROM daw_1020023.receta r, daw_1020023.libros l WHERE r.isbn = l.isbn ORDER BY r.fecha
+" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<row>
+<field name="cod_receta">7</field>
+<field name="tipo">Pasta</field>
+<field name="descripcion">La pasta se cuece y se saltea con un poco de aceite. Mezclar la nata con las yemas de huevo batidas e incorporar a la pasta (fuego lento). Fuera del fuego se le añade queso rallado y gratina (2 min)</field>
+<field name="fecha">1999-03-08</field>
+<field name="titulo_original">Cintas a la Creama</field>
+<field name="isbn">84-324-8776-3</field>
+<field name="cod_receta_padre">3</field>
+<field name="amigo">Miguel</field>
+<field name="isbn">84-324-8776-3</field>
+<field name="titulo">La Cocina Para estar en Forma</field>
+<field name="autor">Karlos Arguiñano</field>
+<field name="imagen">enforma.jpg</field>
+</row>
+
+<row>
+<field name="cod_receta">8</field>
+<field name="tipo">Pasta</field>
+<field name="descripcion">Rehogar mantequilla, anchoas y aceitunas. Añadir la pasta cocida y el brecol. Lonchas de queso por encima y gratinar (1.5 min)</field>
+<field name="fecha">1999-06-13</field>
+<field name="titulo_original">Cintas con Brecol</field>
+<field name="isbn">84-324-8776-3</field>
+<field name="cod_receta_padre" xsi:nil="true" />
+<field name="amigo">Miguel</field>
+<field name="isbn">84-324-8776-3</field>
+<field name="titulo">La Cocina Para estar en Forma</field>
+<field name="autor">Karlos Arguiñano</field>
+<field name="imagen">enforma.jpg</field>
+</row>
+
+<row>
+<field name="cod_receta">9</field>
+<field name="tipo">Pasta</field>
+<field name="descripcion">Rehogar la verdura con el ajo. Incorporar la pasta cocida con las anchoas y las aceitunas. Colocar las lonchas de queso gratinar (3 min)</field>
+<field name="fecha">1999-06-26</field>
+<field name="titulo_original">Cintas con Brecol</field>
+<field name="isbn">84-403-6999-5</field>
+<field name="cod_receta_padre">8</field>
+<field name="amigo">Miguel</field>
+<field name="isbn">84-403-6999-5</field>
+<field name="titulo">La Cocina Práctica</field>
+<field name="autor">Karlos Arguiñano</field>
+<field name="imagen">lacocina.jpg</field>
+</row>
+
+<row>
+<field name="cod_receta">10</field>
+<field name="tipo">Verduras</field>
+<field name="descripcion">Freir los aros de pimiento y colocar encima los puedros cocidos. Cubrir con salsa bechamel. Espolvorear con queso rallado y gratinar (5 min)</field>
+<field name="fecha">1999-06-30</field>
+<field name="titulo_original">Puerros con bechamel</field>
+<field name="isbn">84-324-8776-3</field>
+<field name="cod_receta_padre" xsi:nil="true" />
+<field name="amigo">Miguel</field>
+<field name="isbn">84-324-8776-3</field>
+<field name="titulo">La Cocina Para estar en Forma</field>
+<field name="autor">Karlos Arguiñano</field>
+<field name="imagen">enforma.jpg</field>
+</row>
+</resultset>
+<?xml version="1.0"?>
+
+<resultset statement="SELECT base.xml bdr.xml bd.xml ejecuta Recetas2.xml Recetas3.xml Recetas4.xml Recetas5.xml Recetas6.xml Recetas7.xml Recetas.xml FROM daw_1020023.receta r, daw_1020023.libros l WHERE r.isbn = l.isbn ORDER BY r.fecha
+" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<row>
+<field name="cod_receta">7</field>
+<field name="tipo">Pasta</field>
+<field name="descripcion">La pasta se cuece y se saltea con un poco de aceite. Mezclar la nata con las yemas de huevo batidas e incorporar a la pasta (fuego lento). Fuera del fuego se le añade queso rallado y gratina (2 min)</field>
+<field name="fecha">1999-03-08</field>
+<field name="titulo_original">Cintas a la Creama</field>
+<field name="isbn">84-324-8776-3</field>
+<field name="cod_receta_padre">3</field>
+<field name="amigo">Miguel</field>
+<field name="isbn">84-324-8776-3</field>
+<field name="titulo">La Cocina Para estar en Forma</field>
+<field name="autor">Karlos Arguiñano</field>
+<field name="imagen">enforma.jpg</field>
+</row>
+
+<row>
+<field name="cod_receta">8</field>
+<field name="tipo">Pasta</field>
+<field name="descripcion">Rehogar mantequilla, anchoas y aceitunas. Añadir la pasta cocida y el brecol. Lonchas de queso por encima y gratinar (1.5 min)</field>
+<field name="fecha">1999-06-13</field>
+<field name="titulo_original">Cintas con Brecol</field>
+<field name="isbn">84-324-8776-3</field>
+<field name="cod_receta_padre" xsi:nil="true" />
+<field name="amigo">Miguel</field>
+<field name="isbn">84-324-8776-3</field>
+<field name="titulo">La Cocina Para estar en Forma</field>
+<field name="autor">Karlos Arguiñano</field>
+<field name="imagen">enforma.jpg</field>
+</row>
+
+<row>
+<field name="cod_receta">9</field>
+<field name="tipo">Pasta</field>
+<field name="descripcion">Rehogar la verdura con el ajo. Incorporar la pasta cocida con las anchoas y las aceitunas. Colocar las lonchas de queso gratinar (3 min)</field>
+<field name="fecha">1999-06-26</field>
+<field name="titulo_original">Cintas con Brecol</field>
+<field name="isbn">84-403-6999-5</field>
+<field name="cod_receta_padre">8</field>
+<field name="amigo">Miguel</field>
+<field name="isbn">84-403-6999-5</field>
+<field name="titulo">La Cocina Práctica</field>
+<field name="autor">Karlos Arguiñano</field>
+<field name="imagen">lacocina.jpg</field>
+</row>
+
+<row>
+<field name="cod_receta">10</field>
+<field name="tipo">Verduras</field>
+<field name="descripcion">Freir los aros de pimiento y colocar encima los puedros cocidos. Cubrir con salsa bechamel. Espolvorear con queso rallado y gratinar (5 min)</field>
+<field name="fecha">1999-06-30</field>
+<field name="titulo_original">Puerros con bechamel</field>
+<field name="isbn">84-324-8776-3</field>
+<field name="cod_receta_padre" xsi:nil="true" />
+<field name="amigo">Miguel</field>
+<field name="isbn">84-324-8776-3</field>
+<field name="titulo">La Cocina Para estar en Forma</field>
+<field name="autor">Karlos Arguiñano</field>
+<field name="imagen">enforma.jpg</field>
+</row>
+</resultset>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

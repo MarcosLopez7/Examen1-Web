@@ -30,7 +30,6 @@
 			<titulo_original>Cintas a la Crema</titulo_original>
 			<isbn>84-324-8776-3</isbn>
 			<cod_receta_padre>3</cod_receta_padre>
-			<amigo>Miguel</amigo>
 		</receta>
 		<receta>
 			<cod_receta>8</cod_receta>
@@ -40,7 +39,6 @@
 			<titulo_original>Cintas con Brecol</titulo_original>
 			<isbn>84-324-8776-3</isbn>
 			<cod_receta_padre></cod_receta_padre>
-			<amigo>Miguel</amigo>
 		</receta>
 		<receta>
 			<cod_receta>9</cod_receta>
@@ -50,7 +48,6 @@
 			<titulo_original>Cintas con Brecol</titulo_original>
 			<isbn>84-403-6999-5</isbn>
 			<cod_receta_padre>8</cod_receta_padre>
-			<amigo>Miguel</amigo>
 		</receta>
 		<receta>
 			<cod_receta>10</cod_receta>
@@ -60,7 +57,6 @@
 			<titulo_original>Puerros con bechamel</titulo_original>
 			<isbn>84-324-8776-3</isbn>
 			<cod_receta_padre></cod_receta_padre>
-			<amigo>Miguel</amigo>
 		</receta>
 		<receta>
 			<cod_receta>11</cod_receta>
@@ -468,66 +464,82 @@
 		<ingrediente>
 			<cod_ingrediente>4</cod_ingrediente>
 			<nombre>Cintas</nombre>
+			<imagen>cintas.jpg</imagen>
 		</ingrediente>
 		<ingrediente>
 			<cod_ingrediente>5</cod_ingrediente>
 			<nombre>Yemas de huevo</nombre>
+                        <imagen>yema.jpg</imagen>
 		</ingrediente>
 		<ingrediente>
 			<cod_ingrediente>6</cod_ingrediente>
 			<nombre>Queso rallado</nombre>
+                        <imagen>queso.jpg</imagen>	
 		</ingrediente>
 		<ingrediente>
 			<cod_ingrediente>7</cod_ingrediente>
 			<nombre>Nata líquida</nombre>
+                        <imagen>nata.jpg</imagen>
 		</ingrediente>
 		<ingrediente>
 			<cod_ingrediente>8</cod_ingrediente>
 			<nombre>Brecol</nombre>
+                        <imagen>brecol.jpg</imagen>	
 		</ingrediente>
 		<ingrediente>
 			<cod_ingrediente>9</cod_ingrediente>
 			<nombre>Anchoas</nombre>
+                        <imagen>anchoas.jpg</imagen>
 		</ingrediente>
 		<ingrediente>
 			<cod_ingrediente>10</cod_ingrediente>
 			<nombre>Aceitunas negras</nombre>
+                        <imagen>aceitunas.jpg</imagen>
 		</ingrediente>
 		<ingrediente>
 			<cod_ingrediente>11</cod_ingrediente>
 			<nombre>Lonchas de queso</nombre>
+                        <imagen>lonchas.jpg</imagen>
 		</ingrediente>
 		<ingrediente>
 			<cod_ingrediente>12</cod_ingrediente>
 			<nombre>Coliflor</nombre>
+                        <imagen>coliflor.jpg</imagen>
 		</ingrediente>
 		<ingrediente>
 			<cod_ingrediente>13</cod_ingrediente>
 			<nombre>Espinacas</nombre>
+                        <imagen>espinacas.jpg</imagen>
 		</ingrediente>
 		<ingrediente>
 			<cod_ingrediente>14</cod_ingrediente>
 			<nombre>Puerros</nombre>
+                        <imagen>puerros.jpg</imagen>
 		</ingrediente>
 		<ingrediente>
 			<cod_ingrediente>15</cod_ingrediente>
 			<nombre>Zanahorias</nombre>
+                        <imagen>zanahoria.jpg</imagen>
 		</ingrediente>
 		<ingrediente>
 			<cod_ingrediente>16</cod_ingrediente>
 			<nombre>Judías verdes</nombre>
+                        <imagen>judias.jpg</imagen>
 		</ingrediente>
 		<ingrediente>
 			<cod_ingrediente>17</cod_ingrediente>
 			<nombre>Ajos</nombre>
+                        <imagen>ajos.jpg</imagen>
 		</ingrediente>
 		<ingrediente>
 			<cod_ingrediente>18</cod_ingrediente>
 			<nombre>Pimientos</nombre>
+                        <imagen>pimientos.jpg</imagen>
 		</ingrediente>
 		<ingrediente>
 			<cod_ingrediente>19</cod_ingrediente>
 			<nombre>Bechamel</nombre>
+                        <imagen>bechamel.jpg</imagen>
 		</ingrediente>
 	</ingredientes>
 	<compuestas>
