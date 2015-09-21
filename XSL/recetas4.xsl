@@ -44,7 +44,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
               <li>Fecha: <xsl:value-of select="fecha" /> </li>
               <li>Título: <xsl:value-of select="titulo_original" /> </li>
               <li>ISBN: <xsl:value-of select="isbn" /> </li>
-              <li>Amigo: <xsl:value-of select="amigo" /> </li>
+              <li>Amigo que aportó: <xsl:value-of select="amigo" /> </li>
             </ul>
           </div>
       </xsl:if>

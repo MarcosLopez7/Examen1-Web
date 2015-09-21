@@ -31,52 +31,61 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 			</ul>
 		</nav>
 	</header>
-		<xsl:for-each select="data_base/recetas/receta">
-			<xsl:variable name="i" select="position()" />
-				<xsl:if test="15 >= $i">
+		
+		<h2>Recetas divididas en 15 en 15</h2>
+			
 				<div class="cajita">
+					<xsl:for-each select="data_base/recetas/receta">
+						<xsl:variable name="i" select="position()" />
+						<xsl:if test="15 >= $i">
 					<ul>
 						<li>Código Receta: <xsl:value-of select="cod_receta" /></li>
-						<li>Código Receta: <xsl:value-of select="tipo" /></li>
-						<li>Código Receta: <xsl:value-of select="descripcion" /></li>
-						<li>Código Receta: <xsl:value-of select="fecha" /></li>
-						<li>Código Receta: <xsl:value-of select="titulo_original" /></li>
-						<li>Código Receta: <xsl:value-of select="isbn" /></li>
-						<li>Código Receta: <xsl:value-of select="cod_receta_padre" /></li>
+						<li>Tipo: <xsl:value-of select="tipo" /></li>
+						<li>Descripción: <xsl:value-of select="descripcion" /></li>
+						<li>Fecha: <xsl:value-of select="fecha" /></li>
+						<li>Título: <xsl:value-of select="titulo_original" /></li>
+						<li>ISBN: <xsl:value-of select="isbn" /></li>
+						<li>Código de receta padre: <xsl:value-of select="cod_receta_padre" /></li>
 					</ul>
+						</xsl:if>
+					</xsl:for-each>
 				</div>
-				</xsl:if>
+				
 
-				<xsl:if test="30 >= $i and $i > 15">
+               <div class="cajita">
+					<xsl:for-each select="data_base/recetas/receta">
+						<xsl:variable name="i" select="position()" />
+						<xsl:if test="30 >= $i and $i > 15">
+					<ul>
+						<li>Código Receta: <xsl:value-of select="cod_receta" /></li>
+						<li>Tipo: <xsl:value-of select="tipo" /></li>
+						<li>Descripción: <xsl:value-of select="descripcion" /></li>
+						<li>Fecha: <xsl:value-of select="fecha" /></li>
+						<li>Título: <xsl:value-of select="titulo_original" /></li>
+						<li>ISBN: <xsl:value-of select="isbn" /></li>
+						<li>Código de receta padre: <xsl:value-of select="cod_receta_padre" /></li>
+					</ul>
+						</xsl:if>
+					</xsl:for-each>
+				</div>
+
                                 <div class="cajita">
-                                        <ul>
-                                                <li>Código Receta: <xsl:value-of select="cod_receta" /></li>
-                                                <li>Código Receta: <xsl:value-of select="tipo" /></li>
-                                                <li>Código Receta: <xsl:value-of select="descripcion" /></li>
-                                                <li>Código Receta: <xsl:value-of select="fecha" /></li>
-                                                <li>Código Receta: <xsl:value-of select="titulo_original" /></li>
-                                                <li>Código Receta: <xsl:value-of select="isbn" /></li>
-                                                <li>Código Receta: <xsl:value-of select="cod_receta_padre" /></li>
-                                        </ul>
-                                </div>
-                                </xsl:if>
+					<xsl:for-each select="data_base/recetas/receta">
+						<xsl:variable name="i" select="position()" />
+						<xsl:if test="45 >= $i and $i > 30">
+					<ul>
+						<li>Código Receta: <xsl:value-of select="cod_receta" /></li>
+						<li>Tipo: <xsl:value-of select="tipo" /></li>
+						<li>Descripción: <xsl:value-of select="descripcion" /></li>
+						<li>Fecha: <xsl:value-of select="fecha" /></li>
+						<li>Título: <xsl:value-of select="titulo_original" /></li>
+						<li>ISBN: <xsl:value-of select="isbn" /></li>
+						<li>Código de receta padre: <xsl:value-of select="cod_receta_padre" /></li>
+					</ul>
+						</xsl:if>
+					</xsl:for-each>
+				</div>
 
-			<xsl:if test="45 >= $i and $i > 30">
-                                <div class="cajita">
-                                        <ul>
-                                                <li>Código Receta: <xsl:value-of select="cod_receta" /></li>
-                                                <li>Código Receta: <xsl:value-of select="tipo" /></li>
-                                                <li>Código Receta: <xsl:value-of select="descripcion" /></li>
-                                                <li>Código Receta: <xsl:value-of select="fecha" /></li>
-                                                <li>Código Receta: <xsl:value-of select="titulo_original" /></li>
-                                                <li>Código Receta: <xsl:value-of select="isbn" /></li>
-                                                <li>Código Receta: <xsl:value-of select="cod_receta_padre" /></li>
-                                        </ul>
-                                </div>
-                                </xsl:if>
-
-
-		</xsl:for-each>
 
 	<footer>
       Twitter: <a href="https://twitter.com/MarcosLopez7">@MarcosLopez7</a> <br />

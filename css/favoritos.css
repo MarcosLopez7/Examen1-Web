@@ -1,0 +1,22 @@
+.photo
+{
+	display: block;
+	max-width: 220px;
+	margin: 0 auto 30px;
+	border-radius: 100%;
+}
+
+h2
+{
+	color: #a22430;
+}
+@media screen and (min-width: 520px)
+{
+	.photo
+	{	
+		display: block;
+		max-width: 500px;
+		margin: 0 auto 30px;
+		border-radius: 100%;
+	}
+}

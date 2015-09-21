@@ -1,0 +1,19 @@
+ul
+{
+	list-style: none;
+}
+
+h2
+{
+	color: #a22430;
+}
+
+#wrapper a, #wrapper a:visited
+{
+	color: #ae3f4a;
+}
+
+#wrapper a.selected, #wrapper a:hover 
+{
+	color: #c5767e;
+}

@@ -31,8 +31,10 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   </header>
 
     <h2>Recetas</h2>
-	<xsl:for-each select="data_base/recetas/receta">
+	
 		<div id="verduras">
+      <h2>Recetas de tipo verdura</h2>
+      <xsl:for-each select="data_base/recetas/receta">
 			<xsl:if test="tipo = 'Verduras'">
 				<ul>
 					<li>Título: <xsl:value-of select="titulo_original" /></li>
@@ -55,9 +57,12 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 					</li>
 				</ul>
 			</xsl:if>
+        </xsl:for-each>
 		</div>
 
 		<div id="pastas">
+      <h2>Recetas de tipo pasta</h2>
+      <xsl:for-each select="data_base/recetas/receta">
 			<xsl:if test="tipo = 'Pasta'">
                                 <ul>
                                         <li>Título: <xsl:value-of select="titulo_original" /></li>
@@ -80,9 +85,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                                         </li>
                                 </ul>
                         </xsl:if>
-
+</xsl:for-each>
 		</div>	
-	</xsl:for-each>
+
 
 
     <footer>

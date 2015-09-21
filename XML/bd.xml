@@ -1,4 +1,5 @@
 <?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="../XSL/recetas8.xsl"?>
 
 <resultset statement="SELECT * FROM daw_1020023.receta r, daw_1020023.libros l WHERE r.isbn = l.isbn ORDER BY r.fecha
 " xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">

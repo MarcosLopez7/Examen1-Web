@@ -11,7 +11,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600,300,400italic|Changa+One' rel='stylesheet' type='text/css' />
       <link rel="stylesheet" type="text/css" href="../css/main.css" />
       <link rel="stylesheet" href="../css/responsive.css" />
-      <link rel="stylesheet" type="text/css" href="../css/recetas.css" />
+      <link rel="stylesheet" type="text/css" href="../css/recetas2.css" />
       <meta name="viewport" content="width=device-width, initial-sclae=1.0" />
     </head>
   <body>
@@ -32,10 +32,17 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
     <h2>Recetas</h2>
 	<xsl:for-each select="resultset/row" >
-		<div class="ingre">
+		<div class="cajita">
 			<ul>
 				<xsl:for-each select="field">
-					<li><xsl:value-of select="@name"/>: <xsl:value-of select="." /></li>
+					<li><xsl:if test="@name = 'cod_receta'">Codigo Receta: <xsl:value-of select="." /></xsl:if></li>
+          <li><xsl:if test="@name = 'tipo'">Título: <xsl:value-of select="." /></xsl:if></li>
+          <li><xsl:if test="@name = 'descripcion'">Descripción: <xsl:value-of select="." /></xsl:if></li>
+          <li><xsl:if test="@name = 'fecha'">Fecha: <xsl:value-of select="." /></xsl:if></li>
+          <li><xsl:if test="@name = 'titulo_original'">Título: <xsl:value-of select="." /></xsl:if></li>
+          <li><xsl:if test="@name = 'autor'">Autor: <xsl:value-of select="." /></xsl:if></li>
+          <li><xsl:if test="@name = 'isbn'">ISBN: <xsl:value-of select="." /></xsl:if></li>
+          <li><xsl:if test="@name = 'imagen'"><xsl:variable name="ima" select="concat('../images/',.)" /><div class="image"><img src="{$ima}" /></div></xsl:if></li>
 				</xsl:for-each>
 			</ul>
 		</div>	
